@@ -1,3 +1,3 @@
 <?php
-echo "Testing Openshit and stash repos";
+echo "Testing Openshit and stash repos by Gefter Chongong";
 
